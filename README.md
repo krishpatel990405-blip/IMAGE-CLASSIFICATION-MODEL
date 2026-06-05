@@ -32,3 +32,12 @@ A confusion matrix is also created and visualized using a heatmap. The confusion
 To further analyze the model’s learning process, graphs of training loss and training accuracy are generated. These visualizations help monitor model performance over time and determine whether the model is learning effectively.
 
 Finally, the trained CNN model is saved as a file for future use, allowing it to be loaded later for prediction tasks without retraining. Overall, this project demonstrates the complete workflow of image classification using deep learning, including data preparation, CNN model development, training, evaluation, visualization, and model persistence. It provides a practical introduction to computer vision and deep learning techniques using the PyTorch framework.
+
+
+#OUTPUT : 
+
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/7c8a8729-e151-42ff-b183-c1fbbcf50cf3" />
+<img width="1000" height="800" alt="Image" src="https://github.com/user-attachments/assets/17c63d28-0faa-4cda-a008-7f588eee4fd4" />
+<img width="614" height="280" alt="Image" src="https://github.com/user-attachments/assets/db622657-06e4-4c68-928f-680d95612ea7" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/6a17be09-5d1d-4678-b33f-c40461dc9bc0" />
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/b4e67458-ef2f-4d4f-8c11-ad46760ee77a" />
